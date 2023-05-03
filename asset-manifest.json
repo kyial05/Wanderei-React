@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Wanderei-React/static/css/main.425033b7.css",
+    "main.js": "/Wanderei-React/static/js/main.46286405.js",
+    "static/media/firstFront.svg": "/Wanderei-React/static/media/firstFront.0aa84b723b7918950d26ef27f7ff794b.svg",
+    "static/media/SourceSansPro-Regular.ttf": "/Wanderei-React/static/media/SourceSansPro-Regular.a5357cc4e5d4eeb42793.ttf",
+    "static/media/firstBg.svg": "/Wanderei-React/static/media/firstBg.016f67c6b949d9455169.svg",
+    "static/media/CrimsonText-Regular.ttf": "/Wanderei-React/static/media/CrimsonText-Regular.e7728a296ebfcbb4c776.ttf",
+    "index.html": "/Wanderei-React/index.html",
+    "main.425033b7.css.map": "/Wanderei-React/static/css/main.425033b7.css.map",
+    "main.46286405.js.map": "/Wanderei-React/static/js/main.46286405.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.425033b7.css",
+    "static/js/main.46286405.js"
+  ]
+}
